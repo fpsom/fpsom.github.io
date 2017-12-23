@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Computing and Bioinformatics</title>
-    <description>This is the personal website of Fotis E. Psomopoulos.
+    <description>Institute of Applied Biosciences (INAB), Center for Research and Technology Hellas (CERTH), Thermi 57001, Greece
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Dec 2017 11:00:22 +0200</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2017 11:00:22 +0200</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2017 19:43:00 +0200</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2017 19:43:00 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
