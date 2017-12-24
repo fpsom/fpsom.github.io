@@ -6,9 +6,42 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Dec 2017 19:43:00 +0200</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2017 19:43:00 +0200</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2017 10:31:43 +0200</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2017 10:31:43 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Training for NGS data analysis using Chipster</title>
+        <description>&lt;p&gt;The story is rather simple. Yesterday, my &lt;a href=&quot;issel.ee.auth.gr&quot;&gt;lab&lt;/a&gt; together with the Institute of Applied Biosciences co-organized a training workshop for NGS data analysis. For anyone even remotely engaged in NGS data, the biggest problem in NGS data is usually the computational complexity. In simple words, analyzing tons of data takes a very very long time. Which means that essentially the analysis in performed by people that are familiar with the tools (and their command-line interfaces) that can be used in high end computational systems.&lt;/p&gt;
+
+&lt;p&gt;However, this workshop went slightly off the treaded path by (mostly) skipping the command line interface and going directly to the graphical interface of &lt;a href=&quot;chipster.csc.fi&quot;&gt;Chipster&lt;/a&gt;, developed, maintained and kindly provided by &lt;a href=&quot;https://www.csc.fi/&quot;&gt;CSC&lt;/a&gt;. This “deviation” allowed the participants, who had mainly wet-lab research background, to easily follow the established workflows and pipelines used in NGS data analysis. Moreover, instead of using local computational resources, we launched several Chipster servers through the &lt;a href=&quot;https://www.egi.eu&quot;&gt;EGI&lt;/a&gt; Federated Cloud. So in one training session, the participants were exposed both to the computational capabilities and infrastructure of EGI, as well as the pipelines used in NGS data analysis. All in all, a very dense 8-hour workshop!&lt;/p&gt;
+
+&lt;p&gt;The level of the participants’ experience was also quite diverse, ranging from undergraduate students to faculty members and staff scientists. Despite that though, the workshop was very engaging to all members, a fact clearly seen in the happy faces all around, even when the workshop extended a full hour beyond the expected wrap-up time!&lt;/p&gt;
+
+&lt;p&gt;So, the take home message; there is clearly a need (some might consider it a desperate one) for training events in bioinformatics, and especially in Big Data studies such as NGS data analysis. However, such events should not necessarily focus on the tech-savvy user. Or at least, actively encourage the non technical-expert researchers to attend by providing (a) user friendly interfaces, (b) hands-on exercises that feel close to the actual work of the participants, and (c) the time necessary for everyone to keep their own pace.&lt;/p&gt;
+
+&lt;p&gt;Finally, I would be remiss if I didn’t thank enough the two people that really supported this workshop: Diego Scardaci from EGI.eu and Kimmo Mattila from CSC, whom I constantly pestered with questions and issues in the past few weeks, and they always had the time and patience to lend me their experience.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, there will be follow-up and more specialized workshops. However, if you are interested, the next one will take place at the &lt;a href=&quot;https://indico.egi.eu/indico/event/2544/&quot;&gt;EGI Community Forum&lt;/a&gt; in Bari. So, hope to see you there!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Oct 2015 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2015/10/chipster-workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/10/chipster-workshop</guid>
+        
+        
+        <category>training</category>
+        
+        <category>event</category>
+        
+        <category>workshop</category>
+        
+        <category>egi</category>
+        
+        <category>chipster</category>
+        
+        <category>NGS</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -35,6 +68,131 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Integrating datasets for bioinformatics</title>
+        <description>&lt;p&gt;Well, it seems that I have yet another story regarding EGI. Actually make that two; one is a new article on the &lt;a href=&quot;https://www.egi.eu/wp-content/uploads/2016/08/Inspired-issue-18.pdf&quot;&gt;EGI Inspire Newsletter&lt;/a&gt; in collaboration with Rafael Jimenez regarding a joint project between &lt;a href=&quot;www.egi.eu&quot;&gt;EGI&lt;/a&gt; and &lt;a href=&quot;https://www.elixir-europe.org/&quot;&gt;ELIXIR&lt;/a&gt;. The second is this joint project.&lt;/p&gt;
+
+&lt;p&gt;A collaboration between ELIXIR and EGI is by itself great news. Personally it means that there will be greater opportunities to find (and probably develop) bioinformatics tools that will also utilize and work with the computational infrastructure of EGI. And with little to no expertise required from the end user; it’s no secret that the average wet-lab researcher is a bit hesitant went it comes down to the “little black window” a.k.a. terminal. :)&lt;/p&gt;
+
+&lt;p&gt;The joint project I mentioned earlier is one that I am proud of being the coordinator of. It is an &lt;a href=&quot;https://wiki.egi.eu/wiki/Integrating_Reference_Datasets&quot;&gt;EGI Virtual Team project on Integrating Life Science Reference Datasets&lt;/a&gt;. Yes, I know it’s a mouthful but it’s really quite simple: instead of having to constantly copy reference datasets (i.e. NR/NT, UniProt, BowTie index files etc) to several computational nodes, leave it to the infrastructure to do it for you.&lt;/p&gt;
+
+&lt;p&gt;As a project it just started, but hopefully we’ll have some interesting results in the next 9 months. I’ll keep you posted!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Feb 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/2015/02/integrating-datasets</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/02/integrating-datasets</guid>
+        
+        
+        <category>egi</category>
+        
+        <category>elixir</category>
+        
+        <category>vt</category>
+        
+        <category>bioinformatics</category>
+        
+        <category>data</category>
+        
+        <category>integration</category>
+        
+      </item>
+    
+      <item>
+        <title>Future opportunities and trends for e-infrastructures and life sciences</title>
+        <description>&lt;p&gt;Working with friends, beyond being a pleasure, usually bears fruit. Case in study, the article published today on the &lt;a href=&quot;https://www.egi.eu/wp-content/uploads/2016/08/Inspired-issue-14.pdf&quot;&gt;EGI Inspire Newsletter&lt;/a&gt; with the help of close friend and colleague &lt;a href=&quot;https://sites.google.com/site/afonsomduarte/&quot;&gt;Afonso Duarte&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Beyond being a nice study on the trend of Life Sciences working with e-infrastructures (and Grid/Cloud computing specifically), this article is also an announcement of the Workshop we are organizing in the upcoming EGI Conference in Helsinki. Hope to see you there too! ;)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2014 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog/2014/01/future-opportunities</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2014/01/future-opportunities</guid>
+        
+        
+        <category>egi</category>
+        
+        <category>bioinformatics</category>
+        
+        <category>e-infrastructures</category>
+        
+      </item>
+    
+      <item>
+        <title>Perl DANCER framework</title>
+        <description>&lt;p&gt;After quite some time, I had to go back to writing web-services. I can’t say I was really looking forward to it, but don’t get me wrong; I love writing code and I feel quite confident at it. On the other hand, my memories in writing web-services aren’t the most comforting ones. Admittedly, last time was in 2008 and was writing in Java at that time, so I had to juggle with a lot of things to get them working just right, but still…&lt;/p&gt;
+
+&lt;p&gt;Anyway, my project now is in Perl so I had to look a little bit around for any existing frameworks that might make my life easier, when I came up with the &lt;a href=&quot;http://www.perldancer.org/&quot;&gt;DANCER framework&lt;/a&gt;. And it was a brand new day…&lt;/p&gt;
+
+&lt;p&gt;That was two days ago. In this time I’ve been able to setup almost everything writing only a fraction of the code I used to. Now I am working on the particulars of the application behind the web-service. The setup of the service is straightforward; the DANCER dev team actually provides a tool to help along the way. But (as in every transition between languages) there are several bumps along the road after that. So, in order to help anyone interested, I’ll share any “recipes” that I come up along&lt;/p&gt;
+
+&lt;p&gt;Good coding to all!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2013/07/perl-dancer</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2013/07/perl-dancer</guid>
+        
+        
+        <category>programming</category>
+        
+        <category>perl</category>
+        
+        <category>dancer</category>
+        
+      </item>
+    
+      <item>
+        <title>File Upload using Perl and DANCER</title>
+        <description>&lt;p&gt;One of the most common functions in a web application is File Upload. The following is a working code that can be used to this end. The prerequisites are only Perl (obviously) and the DANCER framework. Right! Here goes:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;post '/upload/:file' =&amp;amp;gt; sub {
+  my $upload_dir = &quot;/home/fpsom/myApp/UPLOADS&quot;;
+  my $filename = params-&amp;amp;gt;{file};
+  my $uploadedFile = upload('file_input_foo');
+  $uploadedFile-&amp;amp;gt;copy_to(&quot;$upload_dir/$filename&quot;);
+  debug &quot;My Log 1: &quot; . params-&amp;amp;gt;{file};
+  debug &quot;My Log 2: &quot; . ref($uploadedFile);
+};
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This should be copied in the &lt;code class=&quot;highlighter-rouge&quot;&gt;myApp/lib/myApp.pm&lt;/code&gt; file (check for the corresponding file in your app)&lt;/p&gt;
+
+&lt;p&gt;In order to check the functionality of this code, I’ve used &lt;code class=&quot;highlighter-rouge&quot;&gt;cURL&lt;/code&gt; as follows, where &lt;code class=&quot;highlighter-rouge&quot;&gt;testUploadFile&lt;/code&gt; is an existing file:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The output on the “development dance floor” should be as follows:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[10269]  core @0.000119&amp;amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
+[10269]  core @0.000413&amp;amp;gt; [hit #4]Trying to match 'POST /upload/testUploadFile' against /^\/upload\/([^\/]+)$/ (generated from '/upload/:file') in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 84
+[10269]  core @0.000530&amp;amp;gt; [hit #4]  --&amp;amp;gt; got 1 in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 102
+[10269]  core @0.000627&amp;amp;gt; [hit #4]  --&amp;amp;gt; named tokens are: file in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 130
+[10269] debug @0.001051&amp;amp;gt; [hit #4]My Log 1: testUploadFile in /home/fpsom/myApp/lib/myApp.pm l. 21
+[10269] debug @0.001145&amp;amp;gt; [hit #4]My Log 2: Dancer::Request::Upload in /home/fpsom/myApp/lib/myApp.pm l. 22
+[10269]  core @0.001446&amp;amp;gt; [hit #4]response: 200 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 179
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And that is that! Hope it helps.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2013/07/file-upload-dancer</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2013/07/file-upload-dancer</guid>
+        
+        
+        <category>programming</category>
+        
+        <category>perl</category>
+        
+        <category>dancer</category>
+        
+        <category>file</category>
+        
+        <category>upload</category>
         
       </item>
     
