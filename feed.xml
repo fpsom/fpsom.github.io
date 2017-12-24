@@ -6,9 +6,94 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Dec 2017 10:31:43 +0200</pubDate>
-    <lastBuildDate>Sun, 24 Dec 2017 10:31:43 +0200</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2017 18:28:07 +0200</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2017 18:28:07 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>September 2016 – the final tally</title>
+        <description>&lt;p&gt;Well, I will definitely remember September 2016 for a number of reasons, but one is definitely the amount of travel involved. The story will be much easier if I break this down to numbers:&lt;/p&gt;
+
+&lt;dl class=&quot;wp-caption alignright&quot; style=&quot;max-width: 400px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/Sea-Sky.jpg&quot; alt=&quot;Morning view, between sea and sky&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;Morning view, between sea and sky&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nights away from home&lt;/strong&gt;: 17&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Total Distance traveled&lt;/strong&gt;: 31,444 km (&lt;em&gt;fyi, this 78% of the circumference of the earth&lt;/em&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;By airplane: 30,711 km in 15 flights&lt;/li&gt;
+      &lt;li&gt;By car: 448 km&lt;/li&gt;
+      &lt;li&gt;On foot: 193 km (&lt;em&gt;curtesy of my tracker&lt;/em&gt;)&lt;/li&gt;
+      &lt;li&gt;By train: 92 km&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Locations&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;5 Cities: The Hague, Denver, Warsaw, Krakow, Trikala&lt;/li&gt;
+      &lt;li&gt;8 Airport Codes: SKG, ATH, AMS, MUC, DEN, WAW, VIE, KRK&lt;/li&gt;
+      &lt;li&gt;3 Countries: The Netherlands, USA, Poland&lt;/li&gt;
+      &lt;li&gt;2 Continents: Europe, America&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All in all, a very active month (but I’d rather not do so many trips in that short of a time). :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2016/10/september-tally</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/september-tally</guid>
+        
+        
+        <category>musings</category>
+        
+        <category>travel</category>
+        
+      </item>
+    
+      <item>
+        <title>Teaching my first Software Carpentry Workshop</title>
+        <description>&lt;p&gt;&lt;em&gt;“My first Software Carpentry workshop”&lt;/em&gt;. Sounds a bit like a first-grader’s essay. But in all honesty, it was a brand new experience for me. Sure, I have been teaching University lectures and seminars for quite some time, but doing a live-coding session was an experience of its own.&lt;/p&gt;
+
+&lt;dl class=&quot;wp-caption alignright&quot; style=&quot;max-width: 400px&quot;&gt;
+
+&lt;dt&gt;&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;&quot; src=&quot;/images/SKG-SWC-Workshop-2016.jpg&quot; alt=&quot;SWC Workshop @ Thessaloniki&quot; /&gt;&lt;/a&gt;&lt;/dt&gt;
+
+&lt;dd&gt;SWC Workshop @ Thessaloniki&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;All things considered, the workshop was a success (evident also in the group photo here); participants were engaged throughout the two-day workshop, there was continuous feedback and discussions on tough points in the lesson, so everyone left quite happy and (hopefully) more knowledgeable than before.&lt;/p&gt;
+
+&lt;p&gt;For me, two things have become even more clear:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Better organization of the workshop in terms of the participants’ level of experience. Sure, very few actually complained for the pace, but I have the impression that we could do a better job if we had focused only on beginner level (for example) or intermediate.&lt;/li&gt;
+  &lt;li&gt;Two days may be convenient in terms of time allocated for any person (given the rather busy schedule of most people now), but it’s a very short time to cover R, Shell and Git. So maybe next time (because there will definitely be a next time) we will aim for three days.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Oh, and a final piece of advice: if you intend to have food or catering at a SWC workshop, ordering pizza may be the best solution…. 🙂&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2016/10/skg-swc-workshop</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/skg-swc-workshop</guid>
+        
+        
+        <category>training</category>
+        
+        <category>event</category>
+        
+        <category>workshop</category>
+        
+        <category>software</category>
+        
+        <category>data</category>
+        
+        <category>carpentry</category>
+        
+      </item>
     
       <item>
         <title>Training for NGS data analysis using Chipster</title>
@@ -40,34 +125,6 @@
         <category>chipster</category>
         
         <category>NGS</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 16 Aug 2015 18:36:27 +0300</pubDate>
-        <link>http://localhost:4000/blog/2015/08/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/08/welcome-to-jekyll</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
