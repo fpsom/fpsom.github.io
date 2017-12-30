@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2017 17:38:26 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2017 17:38:26 +0200</lastBuildDate>
+    <pubDate>Sat, 30 Dec 2017 17:43:03 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Dec 2017 17:43:03 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -48,19 +48,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2016/10/september-tally&amp;amp;title=September 2016 – the final tally&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2016/10/september-tally&amp;amp;title=September 2016 – the final tally&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2016/10/september-tally&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2016/10/september-tally&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -102,19 +102,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2016/10/skg-swc-workshop&amp;amp;title=Teaching my first Software Carpentry Workshop&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2016/10/skg-swc-workshop&amp;amp;title=Teaching my first Software Carpentry Workshop&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2016/10/skg-swc-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2016/10/skg-swc-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -156,19 +156,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2015/10/chipster-workshop&amp;amp;title=Training for NGS data analysis using Chipster&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2015/10/chipster-workshop&amp;amp;title=Training for NGS data analysis using Chipster&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2015/10/chipster-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2015/10/chipster-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -206,19 +206,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2015/02/integrating-datasets&amp;amp;title=Integrating datasets for bioinformatics&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2015/02/integrating-datasets&amp;amp;title=Integrating datasets for bioinformatics&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2015/02/integrating-datasets&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2015/02/integrating-datasets&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -252,19 +252,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2014/01/future-opportunities&amp;amp;title=Future opportunities and trends for e-infrastructures and life sciences&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2014/01/future-opportunities&amp;amp;title=Future opportunities and trends for e-infrastructures and life sciences&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2014/01/future-opportunities&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2014/01/future-opportunities&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -296,19 +296,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2013/07/perl-dancer&amp;amp;title=Perl DANCER framework&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2013/07/perl-dancer&amp;amp;title=Perl DANCER framework&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2013/07/perl-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2013/07/perl-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
@@ -367,19 +367,19 @@
 &lt;div class=&quot;share-box&quot;&gt;
 &lt;h5&gt;Share this:&lt;/h5&gt;
 
-&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2013/07/file-upload-dancer&amp;amp;title=File Upload using Perl and DANCER&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2013/07/file-upload-dancer&amp;amp;title=File Upload using Perl and DANCER&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
 
-&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2013/07/file-upload-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2013/07/file-upload-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 </description>
