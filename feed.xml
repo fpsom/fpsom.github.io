@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Dec 2017 10:40:25 +0200</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2017 10:40:25 +0200</lastBuildDate>
+    <pubDate>Sat, 30 Dec 2017 17:38:26 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Dec 2017 17:38:26 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -42,6 +42,27 @@
 &lt;/ul&gt;
 
 &lt;p&gt;All in all, a very active month (but I’d rather not do so many trips in that short of a time). :)&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2016/10/september-tally&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2016/10/september-tally&amp;amp;title=September 2016 – the final tally&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2016/10/september-tally&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Sat, 15 Oct 2016 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/blog/2016/10/september-tally</link>
@@ -75,6 +96,27 @@
 &lt;/ol&gt;
 
 &lt;p&gt;Oh, and a final piece of advice: if you intend to have food or catering at a SWC workshop, ordering pizza may be the best solution…. 🙂&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2016/10/skg-swc-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2016/10/skg-swc-workshop&amp;amp;title=Teaching my first Software Carpentry Workshop&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2016/10/skg-swc-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Thu, 06 Oct 2016 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/blog/2016/10/skg-swc-workshop</link>
@@ -108,6 +150,27 @@
 &lt;p&gt;Finally, I would be remiss if I didn’t thank enough the two people that really supported this workshop: Diego Scardaci from EGI.eu and Kimmo Mattila from CSC, whom I constantly pestered with questions and issues in the past few weeks, and they always had the time and patience to lend me their experience.&lt;/p&gt;
 
 &lt;p&gt;Hopefully, there will be follow-up and more specialized workshops. However, if you are interested, the next one will take place at the &lt;a href=&quot;https://indico.egi.eu/indico/event/2544/&quot;&gt;EGI Community Forum&lt;/a&gt; in Bari. So, hope to see you there!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2015/10/chipster-workshop&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2015/10/chipster-workshop&amp;amp;title=Training for NGS data analysis using Chipster&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2015/10/chipster-workshop&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Thu, 22 Oct 2015 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/blog/2015/10/chipster-workshop</link>
@@ -137,6 +200,27 @@
 &lt;p&gt;The joint project I mentioned earlier is one that I am proud of being the coordinator of. It is an &lt;a href=&quot;https://wiki.egi.eu/wiki/Integrating_Reference_Datasets&quot;&gt;EGI Virtual Team project on Integrating Life Science Reference Datasets&lt;/a&gt;. Yes, I know it’s a mouthful but it’s really quite simple: instead of having to constantly copy reference datasets (i.e. NR/NT, UniProt, BowTie index files etc) to several computational nodes, leave it to the infrastructure to do it for you.&lt;/p&gt;
 
 &lt;p&gt;As a project it just started, but hopefully we’ll have some interesting results in the next 9 months. I’ll keep you posted!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2015/02/integrating-datasets&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2015/02/integrating-datasets&amp;amp;title=Integrating datasets for bioinformatics&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2015/02/integrating-datasets&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Wed, 18 Feb 2015 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/2015/02/integrating-datasets</link>
@@ -162,6 +246,27 @@
         <description>&lt;p&gt;Working with friends, beyond being a pleasure, usually bears fruit. Case in study, the article published today on the &lt;a href=&quot;https://www.egi.eu/wp-content/uploads/2016/08/Inspired-issue-14.pdf&quot;&gt;EGI Inspire Newsletter&lt;/a&gt; with the help of close friend and colleague &lt;a href=&quot;https://sites.google.com/site/afonsomduarte/&quot;&gt;Afonso Duarte&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Beyond being a nice study on the trend of Life Sciences working with e-infrastructures (and Grid/Cloud computing specifically), this article is also an announcement of the Workshop we are organizing in the upcoming EGI Conference in Helsinki. Hope to see you there too! ;)&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2014/01/future-opportunities&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2014/01/future-opportunities&amp;amp;title=Future opportunities and trends for e-infrastructures and life sciences&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2014/01/future-opportunities&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Wed, 22 Jan 2014 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/2014/01/future-opportunities</link>
@@ -185,6 +290,27 @@
 &lt;p&gt;That was two days ago. In this time I’ve been able to setup almost everything writing only a fraction of the code I used to. Now I am working on the particulars of the application behind the web-service. The setup of the service is straightforward; the DANCER dev team actually provides a tool to help along the way. But (as in every transition between languages) there are several bumps along the road after that. So, in order to help anyone interested, I’ll share any “recipes” that I come up along&lt;/p&gt;
 
 &lt;p&gt;Good coding to all!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2013/07/perl-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2013/07/perl-dancer&amp;amp;title=Perl DANCER framework&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2013/07/perl-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/blog/2013/07/perl-dancer</link>
@@ -235,6 +361,27 @@
 &lt;/div&gt;
 
 &lt;p&gt;And that is that! Hope it helps.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=http://localhost:4000/blog/2013/07/file-upload-dancer&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=http://localhost:4000/blog/2013/07/file-upload-dancer&amp;amp;title=File Upload using Perl and DANCER&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post http://localhost:4000/blog/2013/07/file-upload-dancer&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
 </description>
         <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
         <link>http://localhost:4000/blog/2013/07/file-upload-dancer</link>
