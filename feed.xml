@@ -6,9 +6,69 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2017 17:43:03 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2017 17:43:03 +0200</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 11:14:19 +0300</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 11:14:19 +0300</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>RDA: a global research data orchestra</title>
+        <description>&lt;p&gt;March 21st 2018; that was the day of the spring equinox this year, but also the first day of the &lt;a href=&quot;https://www.rd-alliance.org/plenaries/rda-eleventh-plenary-meeting-berlin-germany&quot;&gt;11th RDA Plenary&lt;/a&gt;, marking the 5th birthday of the Research Data Alliance. That may sound as a coincidence (and in all honesty it probably was), but it was definitely a great way to kick off the major biannual event of all research data aficionados gathered in Berlin. Yours truly was one of the 661 participants from 41 countries of the event that spanned three days and included more than 80 sessions, working meetings, BoFs and, of course, lots of caffeine-driven discussions in the halls of the Berlin Congress Center.&lt;/p&gt;
+
+&lt;p&gt;One of the major themes that resonated in this Plenary, was the concept of the &lt;strong&gt;global community&lt;/strong&gt;; the group of approximately 6,600 people from all around the world that work together to address the challenges of open research data sharing. Open Science principles, interdisciplinary initiatives and targeted skill training where just few of the topics identified as global issues that are being currently tackled by the joined RDA community. Under the theme “&lt;em&gt;From Data to Knowledge&lt;/em&gt;”, speakers throughout the Plenary provided some insights on these topics, as well as some suggestions for the way ahead.&lt;/p&gt;
+
+&lt;p&gt;Dr. Georg Schütte, State Secretary at the Federal Ministry of Education and Research in Germany, succinctly stated the current situation: “&lt;em&gt;Science and research are at the forefront of the data revolution&lt;/em&gt;”. Interdisciplinary science, a recurring and familiar cadence in research, is &lt;a href=&quot;https://twitter.com/memartone&quot;&gt;deeply complex and takes time&lt;/a&gt;. Understanding the distinct roles, strengths, and contributions within a global community, can facilitate a culture of multi-disciplinary research. On the same note, Prof. Li Jianhui, the Secretary-General of the Chinese National Committee for the Committee on Data for Science and Technology (CODATA-CHINA) and Director of the Big Data Department of the CAS Computer Network Information Center (CNIC), emphasized the investment and progress in data science and data integration in China, but at the same time highlighted the need for common data tools and standards. A targeted session on the Open Science Commons provided the platform for further delving into this topic; hearing about developments in &lt;a href=&quot;https://twitter.com/simonhodson99&quot;&gt;Africa&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/thedatabadger&quot;&gt;Australia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/mleggott&quot;&gt;Canada&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/bmm42&quot;&gt;Europe&lt;/a&gt; and US (Nick Weber) set the stage for discussions &lt;a href=&quot;https://rd-alliance.org/towards-global-open-science-commons-rda-11th-plenary-bof-meeting&quot;&gt;towards a Global Open Science Commons&lt;/a&gt;. The main message here was to establish a feedback loop, from global to local and back again; best practices and solutions need to be identified globally, applied and refined at the local level and then reinforced again through global coordination. This dynamic interaction can lead to the standardization of protocols that can address some of the existing technical (and cultural) challenges.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, as a community we need to be also mindful of the existing initiatives in the different countries and how they can be interoperable. There are several such initiatives, and at different levels of relevance; the &lt;a href=&quot;http://www.g7italy.it/en/news/the-ministerial-meeting-on-science-has-ended&quot;&gt;G7 communique on Open Science in 2017&lt;/a&gt; attempted to set a global tone; the &lt;a href=&quot;https://allofus.nih.gov/&quot;&gt;“All of Us” programme&lt;/a&gt; of &lt;a href=&quot;https://twitter.com/NIHDataScience&quot;&gt;NIH Data Science&lt;/a&gt;, as outlined by &lt;a href=&quot;https://twitter.com/NLMdirector&quot;&gt;Patti Brennan, Director of the National Library of Medicine &lt;/a&gt;, aims to gather data from over 1 million participants in order to offer a broad repository of content that’s not focused on specific disease investigation. At the European level, Prof. Klaus Tochtermann, Director of ZBW, put it quite elegantly: &lt;em&gt;“We need to ensure that EOSC doesn’t become synonymous to the “European Open Science Chaos” “&lt;/em&gt; Using FAIR principles, the primary focus of the &lt;a href=&quot;https://www.go-fair.org/&quot;&gt;GO FAIR initiative&lt;/a&gt;, can be a good step in this direction.&lt;/p&gt;
+
+&lt;p&gt;Going beyond the technical aspects, the human factor is equally important - what are the incentive structures in place for scientists to promote open and FAIR data? The need and advantages are clear to all, but the actual application and uptake is still minimal and sporadic at best. An interesting tidbit of information was highlighed during one of the sessions at P11:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Percentage of time spent finding and organising data according to research data specialists: &lt;strong&gt;79%&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is why discussions on FAIR data are important, and it clearly highlights the need of building data skills globally.&lt;/p&gt;
+
+&lt;p&gt;I will close this meandering article by recalling (and slightly paraphrasing) an awesome metaphor given by the RDA Secretary General &lt;a href=&quot;https://twitter.com/hilaryhanahoe&quot;&gt;Hilary Hanahoe&lt;/a&gt; during the opening talk with regards to the RDA community.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our community is the driving force of RDA. In a way similar to an orchestra, every member of the community is an instrument; each brings their own skillset, experience and particular expertise, producing a unique melody. Combining all these voices and melodies together, the music of RDA is produced.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And it’s beautiful. 🎼&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css&quot; /&gt;
+
+&lt;div class=&quot;share-box&quot;&gt;
+&lt;h5&gt;Share this:&lt;/h5&gt;
+
+&lt;a class=&quot;f&quot; href=&quot;https://www.facebook.com/sharer/sharer.php?url=https://fpsom.github.io/blog/2018/03/rdaplenary11&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-facebook-official fa&quot;&gt;&lt;/i&gt;&lt;span&gt; facebook&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;t&quot; href=&quot;https://twitter.com/intent/tweet?text=&amp;amp;url=https://fpsom.github.io/blog/2018/03/rdaplenary11&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-twitter fa&quot;&gt;&lt;/i&gt;&lt;span&gt; twitter&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;g&quot; href=&quot;https://plus.google.com/share?url=https://fpsom.github.io/blog/2018/03/rdaplenary11&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-google-plus fa&quot;&gt;&lt;/i&gt;&lt;span&gt; google&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;l&quot; href=&quot;https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://fpsom.github.io/blog/2018/03/rdaplenary11&amp;amp;title=RDA: a global research data orchestra&amp;amp;summary=&amp;amp;source=fpsom&quot; onclick=&quot;window.open(this.href, 'mywin',
+'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;&quot;&gt;&lt;i class=&quot;fa fa-linkedin fa&quot;&gt;&lt;/i&gt;&lt;span&gt; linkedin&lt;/span&gt;&lt;/a&gt;
+
+&lt;a class=&quot;e&quot; href=&quot;mailto:?subject=Check out this post https://fpsom.github.io/blog/2018/03/rdaplenary11&quot;&gt;&lt;i class=&quot;fa fa-envelope fa&quot;&gt;&lt;/i&gt;&lt;span&gt; email&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 30 Mar 2018 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/blog/2018/03/rdaplenary11</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/03/rdaplenary11</guid>
+        
+        
+        <category>RDA</category>
+        
+        <category>Community</category>
+        
+        <category>Conference</category>
+        
+      </item>
     
       <item>
         <title>September 2016 – the final tally</title>
