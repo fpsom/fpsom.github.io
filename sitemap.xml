@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2018/03/rdaplenary11</loc>
+      <loc>http://fpsom.github.io/blog/2018/03/rdaplenary11</loc>
       
         <lastmod>2018-03-30T00:00:00+03:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2016/10/september-tally</loc>
+      <loc>http://fpsom.github.io/blog/2016/10/september-tally</loc>
       
         <lastmod>2016-10-15T00:00:00+03:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2016/10/skg-swc-workshop</loc>
+      <loc>http://fpsom.github.io/blog/2016/10/skg-swc-workshop</loc>
       
         <lastmod>2016-10-06T00:00:00+03:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2015/10/chipster-workshop</loc>
+      <loc>http://fpsom.github.io/blog/2015/10/chipster-workshop</loc>
       
         <lastmod>2015-10-22T00:00:00+03:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2015/02/integrating-datasets</loc>
+      <loc>http://fpsom.github.io/blog/2015/02/integrating-datasets</loc>
       
         <lastmod>2015-02-18T00:00:00+02:00</lastmod>
       
@@ -78,7 +78,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2014/01/future-opportunities</loc>
+      <loc>http://fpsom.github.io/blog/2014/01/future-opportunities</loc>
       
         <lastmod>2014-01-22T00:00:00+02:00</lastmod>
       
@@ -93,7 +93,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2013/07/perl-dancer</loc>
+      <loc>http://fpsom.github.io/blog/2013/07/perl-dancer</loc>
       
         <lastmod>2013-07-31T00:00:00+03:00</lastmod>
       
@@ -108,7 +108,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/blog/2013/07/file-upload-dancer</loc>
+      <loc>http://fpsom.github.io/blog/2013/07/file-upload-dancer</loc>
       
         <lastmod>2013-07-31T00:00:00+03:00</lastmod>
       
@@ -124,24 +124,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://fpsom.github.io/about/</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/blog/</loc>
-      
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -154,24 +139,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/about/cv/</loc>
+      <loc>http://fpsom.github.io/blog/</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/feed.xml</loc>
-      
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -184,24 +154,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/</loc>
+      <loc>http://fpsom.github.io/about/cv/</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/css/main.css</loc>
-      
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -214,24 +169,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/research/pop/</loc>
+      <loc>http://fpsom.github.io/feed.xml</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/research/projects/</loc>
-      
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -244,24 +184,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/research/publications/</loc>
+      <loc>http://fpsom.github.io/</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/research/</loc>
-      
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -274,9 +199,84 @@
   
     
     <url>
-      <loc>http://localhost:4000/teaching/resources/</loc>
+      <loc>http://fpsom.github.io/css/main.css</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fpsom.github.io/research/pop/</loc>
+      
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fpsom.github.io/research/projects/</loc>
+      
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fpsom.github.io/research/publications/</loc>
+      
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fpsom.github.io/research/</loc>
+      
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fpsom.github.io/teaching/resources/</loc>
+      
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -291,9 +291,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/teaching/</loc>
+      <loc>http://fpsom.github.io/teaching/</loc>
       
-        <lastmod>2018-03-30T11:14:19+03:00</lastmod>
+        <lastmod>2018-06-14T12:34:16+03:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

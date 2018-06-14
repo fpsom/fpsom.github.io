@@ -4,11 +4,11 @@
     <title>Cloud Computing and Bioinformatics</title>
     <description>Institute of Applied Biosciences (INAB), Center for Research and Technology Hellas (CERTH), Thermi 57001, Greece
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Mar 2018 11:14:19 +0300</pubDate>
-    <lastBuildDate>Fri, 30 Mar 2018 11:14:19 +0300</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <link>http://fpsom.github.io/</link>
+    <atom:link href="http://fpsom.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jun 2018 12:34:16 +0300</pubDate>
+    <lastBuildDate>Thu, 14 Jun 2018 12:34:16 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>RDA: a global research data orchestra</title>
@@ -58,8 +58,8 @@
 
 </description>
         <pubDate>Fri, 30 Mar 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2018/03/rdaplenary11</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2018/03/rdaplenary11</guid>
+        <link>http://fpsom.github.io/blog/2018/03/rdaplenary11</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2018/03/rdaplenary11</guid>
         
         
         <category>RDA</category>
@@ -125,8 +125,8 @@
 
 </description>
         <pubDate>Sat, 15 Oct 2016 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2016/10/september-tally</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/september-tally</guid>
+        <link>http://fpsom.github.io/blog/2016/10/september-tally</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2016/10/september-tally</guid>
         
         
         <category>musings</category>
@@ -179,8 +179,8 @@
 
 </description>
         <pubDate>Thu, 06 Oct 2016 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2016/10/skg-swc-workshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/skg-swc-workshop</guid>
+        <link>http://fpsom.github.io/blog/2016/10/skg-swc-workshop</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2016/10/skg-swc-workshop</guid>
         
         
         <category>training</category>
@@ -233,8 +233,8 @@
 
 </description>
         <pubDate>Thu, 22 Oct 2015 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2015/10/chipster-workshop</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/10/chipster-workshop</guid>
+        <link>http://fpsom.github.io/blog/2015/10/chipster-workshop</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2015/10/chipster-workshop</guid>
         
         
         <category>training</category>
@@ -283,8 +283,8 @@
 
 </description>
         <pubDate>Wed, 18 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/2015/02/integrating-datasets</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2015/02/integrating-datasets</guid>
+        <link>http://fpsom.github.io/blog/2015/02/integrating-datasets</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2015/02/integrating-datasets</guid>
         
         
         <category>egi</category>
@@ -329,8 +329,8 @@
 
 </description>
         <pubDate>Wed, 22 Jan 2014 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog/2014/01/future-opportunities</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2014/01/future-opportunities</guid>
+        <link>http://fpsom.github.io/blog/2014/01/future-opportunities</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2014/01/future-opportunities</guid>
         
         
         <category>egi</category>
@@ -373,8 +373,8 @@
 
 </description>
         <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2013/07/perl-dancer</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2013/07/perl-dancer</guid>
+        <link>http://fpsom.github.io/blog/2013/07/perl-dancer</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2013/07/perl-dancer</guid>
         
         
         <category>programming</category>
@@ -389,7 +389,7 @@
         <title>File Upload using Perl and DANCER</title>
         <description>&lt;p&gt;One of the most common functions in a web application is File Upload. The following is a working code that can be used to this end. The prerequisites are only Perl (obviously) and the DANCER framework. Right! Here goes:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;post '/upload/:file' =&amp;amp;gt; sub {
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;post '/upload/:file' =&amp;amp;gt; sub {
   my $upload_dir = &quot;/home/fpsom/myApp/UPLOADS&quot;;
   my $filename = params-&amp;amp;gt;{file};
   my $uploadedFile = upload('file_input_foo');
@@ -397,28 +397,25 @@
   debug &quot;My Log 1: &quot; . params-&amp;amp;gt;{file};
   debug &quot;My Log 2: &quot; . ref($uploadedFile);
 };
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;This should be copied in the &lt;code class=&quot;highlighter-rouge&quot;&gt;myApp/lib/myApp.pm&lt;/code&gt; file (check for the corresponding file in your app)&lt;/p&gt;
 
 &lt;p&gt;In order to check the functionality of this code, I’ve used &lt;code class=&quot;highlighter-rouge&quot;&gt;cURL&lt;/code&gt; as follows, where &lt;code class=&quot;highlighter-rouge&quot;&gt;testUploadFile&lt;/code&gt; is an existing file:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The output on the “development dance floor” should be as follows:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[10269]  core @0.000119&amp;amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[10269]  core @0.000119&amp;amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
 [10269]  core @0.000413&amp;amp;gt; [hit #4]Trying to match 'POST /upload/testUploadFile' against /^\/upload\/([^\/]+)$/ (generated from '/upload/:file') in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 84
 [10269]  core @0.000530&amp;amp;gt; [hit #4]  --&amp;amp;gt; got 1 in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 102
 [10269]  core @0.000627&amp;amp;gt; [hit #4]  --&amp;amp;gt; named tokens are: file in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 130
 [10269] debug @0.001051&amp;amp;gt; [hit #4]My Log 1: testUploadFile in /home/fpsom/myApp/lib/myApp.pm l. 21
 [10269] debug @0.001145&amp;amp;gt; [hit #4]My Log 2: Dancer::Request::Upload in /home/fpsom/myApp/lib/myApp.pm l. 22
 [10269]  core @0.001446&amp;amp;gt; [hit #4]response: 200 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 179
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And that is that! Hope it helps.&lt;/p&gt;
 
@@ -444,8 +441,8 @@
 
 </description>
         <pubDate>Wed, 31 Jul 2013 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/blog/2013/07/file-upload-dancer</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2013/07/file-upload-dancer</guid>
+        <link>http://fpsom.github.io/blog/2013/07/file-upload-dancer</link>
+        <guid isPermaLink="true">http://fpsom.github.io/blog/2013/07/file-upload-dancer</guid>
         
         
         <category>programming</category>
