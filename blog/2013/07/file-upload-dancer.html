@@ -124,7 +124,7 @@
   <article class="post-content">
     <p>One of the most common functions in a web application is File Upload. The following is a working code that can be used to this end. The prerequisites are only Perl (obviously) and the DANCER framework. Right! Here goes:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>post '/upload/:file' =&amp;gt; sub {
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>post '/upload/:file' =&amp;gt; sub {
   my $upload_dir = "/home/fpsom/myApp/UPLOADS";
   my $filename = params-&amp;gt;{file};
   my $uploadedFile = upload('file_input_foo');
@@ -134,16 +134,16 @@
 };
 </code></pre></div></div>
 
-<p>This should be copied in the <code class="highlighter-rouge">myApp/lib/myApp.pm</code> file (check for the corresponding file in your app)</p>
+<p>This should be copied in the <code class="language-plaintext highlighter-rouge">myApp/lib/myApp.pm</code> file (check for the corresponding file in your app)</p>
 
-<p>In order to check the functionality of this code, I’ve used <code class="highlighter-rouge">cURL</code> as follows, where <code class="highlighter-rouge">testUploadFile</code> is an existing file:</p>
+<p>In order to check the functionality of this code, I’ve used <code class="language-plaintext highlighter-rouge">cURL</code> as follows, where <code class="language-plaintext highlighter-rouge">testUploadFile</code> is an existing file:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
 </code></pre></div></div>
 
 <p>The output on the “development dance floor” should be as follows:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[10269]  core @0.000119&amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[10269]  core @0.000119&amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
 [10269]  core @0.000413&amp;gt; [hit #4]Trying to match 'POST /upload/testUploadFile' against /^\/upload\/([^\/]+)$/ (generated from '/upload/:file') in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 84
 [10269]  core @0.000530&amp;gt; [hit #4]  --&amp;gt; got 1 in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 102
 [10269]  core @0.000627&amp;gt; [hit #4]  --&amp;gt; named tokens are: file in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 130
@@ -192,7 +192,7 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li><strong>Cloud Computing and Bioinformatics</strong></li>
-          <li>Research Assistant Professor</li>
+          <li>Principal Investigator</li>
           <li><a href="mailto:fpsom-[at]-certh-dot-gr">fpsom-[at]-certh-dot-gr</a></li>
         </ul>
       </div>

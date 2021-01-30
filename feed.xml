@@ -6,9 +6,9 @@
 </description>
     <link>http://fpsom.github.io/</link>
     <atom:link href="http://fpsom.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Apr 2020 23:44:59 +0300</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2020 23:44:59 +0300</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Sat, 30 Jan 2021 13:33:37 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2021 13:33:37 +0200</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>RDA: a global research data orchestra</title>
@@ -389,7 +389,7 @@
         <title>File Upload using Perl and DANCER</title>
         <description>&lt;p&gt;One of the most common functions in a web application is File Upload. The following is a working code that can be used to this end. The prerequisites are only Perl (obviously) and the DANCER framework. Right! Here goes:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;post '/upload/:file' =&amp;amp;gt; sub {
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;post '/upload/:file' =&amp;amp;gt; sub {
   my $upload_dir = &quot;/home/fpsom/myApp/UPLOADS&quot;;
   my $filename = params-&amp;amp;gt;{file};
   my $uploadedFile = upload('file_input_foo');
@@ -399,16 +399,16 @@
 };
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This should be copied in the &lt;code class=&quot;highlighter-rouge&quot;&gt;myApp/lib/myApp.pm&lt;/code&gt; file (check for the corresponding file in your app)&lt;/p&gt;
+&lt;p&gt;This should be copied in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myApp/lib/myApp.pm&lt;/code&gt; file (check for the corresponding file in your app)&lt;/p&gt;
 
-&lt;p&gt;In order to check the functionality of this code, I’ve used &lt;code class=&quot;highlighter-rouge&quot;&gt;cURL&lt;/code&gt; as follows, where &lt;code class=&quot;highlighter-rouge&quot;&gt;testUploadFile&lt;/code&gt; is an existing file:&lt;/p&gt;
+&lt;p&gt;In order to check the functionality of this code, I’ve used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cURL&lt;/code&gt; as follows, where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;testUploadFile&lt;/code&gt; is an existing file:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;curl -i -F file_input_foo=@testUploadFile http://localhost:3000/upload/testUploadFile
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The output on the “development dance floor” should be as follows:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[10269]  core @0.000119&amp;amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[10269]  core @0.000119&amp;amp;gt; request: POST /upload/testUploadFile from 127.0.0.1 in /usr/local/share/perl/5.14.2/Dancer/Handler.pm l. 56
 [10269]  core @0.000413&amp;amp;gt; [hit #4]Trying to match 'POST /upload/testUploadFile' against /^\/upload\/([^\/]+)$/ (generated from '/upload/:file') in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 84
 [10269]  core @0.000530&amp;amp;gt; [hit #4]  --&amp;amp;gt; got 1 in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 102
 [10269]  core @0.000627&amp;amp;gt; [hit #4]  --&amp;amp;gt; named tokens are: file in /usr/local/share/perl/5.14.2/Dancer/Route.pm l. 130
