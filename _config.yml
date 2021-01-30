@@ -1,0 +1,36 @@
+# Site settings
+title: Cloud Computing and Bioinformatics
+email: fpsom-[at]-certh-dot-gr
+description: > # this means to ignore newlines until "baseurl:"
+  Institute of Applied Biosciences (INAB),
+  Center for Research and Technology Hellas (CERTH),
+  Thermi 57001, Greece
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fpsom.github.io" # the base hostname & protocol for your site
+twitter_username: fopsom
+github_username:  fpsom
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+job_title: "Principal Investigator"
+excerpt_separator: "<!--more-->"
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+  #group_by: year
+
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  query: "@*"

@@ -1,0 +1,28 @@
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Projects"
+      subhref: "/research/projects/"
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Publish-or-Perish stats"
+      subhref: "/research/pop/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "Materials and Resources"
+      subhref: "/teaching/resources/"
+
+- title: "About"
+  href: "/about/"
+  subcategories:
+    - subtitle: "CV"
+      subhref: "/about/cv/"
+
+- title: "Bits and Pieces"
+  href: "/blog/"
+  subcategories:
+    - subtitle: "multimedia"
+      subhref: "/about/media/"
